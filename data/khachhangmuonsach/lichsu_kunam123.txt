@@ -1,0 +1,6 @@
+Asd;6;6/6/2017
+Toan;7;6/6/2017
+Vat Ly;4;6/6/2017
+Giai Tich;5;6/6/2017
+Cau Truc Du Lieu Va Giai Thuat;4;6/14/2017
+Ky Thuat Lap Trinh;3;6/14/2017
